@@ -11,5 +11,5 @@ public class PlayerDeadState : PlayerBaseState
     public override void UpdateState(PlayerStateManager player)
     {
         Debug.Log("dead");
-    }
+  }
 }
